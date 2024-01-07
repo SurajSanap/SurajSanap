@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing](https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing)
  
-<a! = align="left" [download](https://github.com/SurajSanap/Profile/assets/101057653/0a09176a-83c6-4402-bff1-1fc145d6bbaf)</a>
+<a! = align="left" href="[download](https://github.com/SurajSanap/Profile/assets/101057653/0a09176a-83c6-4402-bff1-1fc145d6bbaf)"</a>
 
 - ⚡ Fun fact **I am a Nature Photographer**
 
