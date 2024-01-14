@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django, DeepLearning, DSA**
 
-- 💬 Ask me about **Python,ML,AWS,**
+- 💬 Ask me about **Python, ML, AWS**
 
 - 📫 How to reach me **surajsanapmusic@gamil.com**
 
