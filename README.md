@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/SurajSanap/Profile/assets/101057653/a2eab27c-a730-4a9c-93bd-6ae35974b1cb)
 
-<h3 align="center">A passionate AI/ML, Data Science </h3>
+<h3 align="center">A passionate AI/ML and Data Science </h3>
 
 - 🔭 I’m currently working on [AI Resume Analyser](https://github.com/SurajSanap/AI-Resume-Analyzer)
 
