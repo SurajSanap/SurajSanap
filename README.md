@@ -2,15 +2,15 @@
 
 <h3 align="center">A passionate AI/ML and Data Science </h3>
 
-- 🔭 I’m currently working on [AI Resume Analyser](https://github.com/SurajSanap/AI-Resume-Analyzer)
+- 🔭 I’m currently working on [College.ai](collegeai.streamlit.app)
 
 - 🌱 I’m currently learning **Django, DeepLearning, DSA**
 
-- 💬 Ask me about **Python, ML, AWS**
+- 💬 Ask me about **Python, ML, AWS, Java**
 
 - 📫 How to reach me **surajsanapmusic@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing](https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing]([https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing](https://drive.google.com/file/d/1yRK5howE9A9gEqloObmmW4nXD563wztX/view?usp=drive_link))
  
 
 
