@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **surajsanapmusic@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing]([https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing](https://drive.google.com/file/d/1yRK5howE9A9gEqloObmmW4nXD563wztX/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TYah-lDpq6nFjT7w1XlZN6Pcd8cSYyG-/view?usp=sharing](https://drive.google.com/file/d/1yRK5howE9A9gEqloObmmW4nXD563wztX/view?usp=drive_link)
  
 
 
