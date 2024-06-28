@@ -49,5 +49,6 @@
   </a> 
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SurajSanap&theme=default&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?SurajSanap=&theme=dark&hide_border=true&border_radius=6.6&exclude_days=Sun)](https://git.io/streak-stats)
+
 
