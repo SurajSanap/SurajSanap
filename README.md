@@ -51,4 +51,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?SurajSanap=&theme=dark&hide_border=true&border_radius=6.6&exclude_days=Sun)](https://git.io/streak-stats)
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?SurajSanap=&theme=dark&hide_border=true&border_radius=6.6&exclude_days=Sun" alt="GitHub Streak" /></a>
