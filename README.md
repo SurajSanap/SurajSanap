@@ -8,11 +8,11 @@
 
 - 💬 Ask me about **Python, ML, AWS, Java**
 
-- 📫 How to reach me **surajsanapmusic@gamil.com**
+- 📫 How to reach me **surajsanapcontact@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yRK5howE9A9gEqloObmmW4nXD563wztX/view?usp=drive_link)
 
-- ⚡ Fun fact **I am a Nature Photographer**
+- ⚡ Fun fact **I am a Nature Photographer & Music Producer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
