@@ -1,5 +1,6 @@
 
-<p align="center"><a href="https://github.com/SurajSanap"><img width="80%" alt="Hello, I'm Suraj. I do tech!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/SurajSanap"><img width="80%" alt="Hello, I'm Suraj. I do tech!" src="![Suraj Sanap](https://github.com/user-attachments/assets/38f7a21b-a7f3-4b81-a5db-5aa704989582)
+" /></a></p>
 
 <br />
 
