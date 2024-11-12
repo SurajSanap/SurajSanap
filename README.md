@@ -42,9 +42,7 @@ I'm a passionate developer and Data Analyst from India 🇮🇳, specializing in
 <br />
 <br />
 
-<a href="https://twitter.com/surajsanap">
-  <img align="right" alt="Suraj Sanap | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/surajsanap01">
 
   <img align="right" alt="Suraj Sanap | LinkedIn" width="20px" src="https://bit.ly/48JipJi" />
