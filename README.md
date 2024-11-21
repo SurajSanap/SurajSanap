@@ -6,7 +6,7 @@
 
 <br />
 
-I'm a passionate developer and Data Analyst from India 🇮🇳, specializing in machine learning, generative AI, and software engineering.
+I'm a passionate developer and Ai from India 🇮🇳, specializing in machine learning, generative AI, and software engineering.
 
 **About me**
 
