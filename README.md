@@ -12,8 +12,8 @@ I'm a passionate developer and Ai from India 🇮🇳, specializing in machine l
 
 - 💼 Currently studying Bachelor of Engineering (IT) at Savitribai Phule Pune University, graduating in 2025.
   
-- 🌱 Previously interned as a Data Analyst at 360iResearch and a Software Engineer at Abhyaz.
-
+- 🌱 Previously interned as a Data Analyst at 360iResearch.
+  
 - 📈 Built **College.ai** and **Farmer.ai**, leveraging AI to assist with job applications and crop recommendations, respectively.
 
 - ❤️ I love working with Python, Java, and building AI-powered tools and applications.
