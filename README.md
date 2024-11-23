@@ -28,7 +28,8 @@ I'm a passionate developer and Ai from India 🇮🇳, specializing in machine l
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 
-| <a href="https://github.com/SurajSanap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SurajSanap&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Suraj's github stats" /></a> | <a href="https://github.com/SurajSanap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajSanap&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/SurajSanap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SurajSanap&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Suraj's github stats" /></a> 
+# <a href="https://github.com/SurajSanap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajSanap&layout=compact&theme=buefy&hide_border=true" /></a> 
 | ------------- | ------------- |
 
 #### Top Projects
@@ -36,9 +37,9 @@ I'm a passionate developer and Ai from India 🇮🇳, specializing in machine l
 <a href="https://github.com/SurajSanap/College.ai-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajSanap&repo=College.ai-main&theme=buefy" />
 </a>
-<!-- <a href="https://github.com/SurajSanap/Farmer.ai">
+<a href="https://github.com/SurajSanap/Farmer.ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajSanap&repo=Farmer.ai&theme=buefy" />
-</a> -->
+</a>
 
 <br />
 <br />
