@@ -36,9 +36,9 @@ I'm a passionate developer and Ai from India 🇮🇳, specializing in machine l
 <a href="https://github.com/SurajSanap/College.ai-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajSanap&repo=College.ai-main&theme=buefy" />
 </a>
-<a href="https://github.com/SurajSanap/Farmer.ai">
+<!-- <a href="https://github.com/SurajSanap/Farmer.ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurajSanap&repo=Farmer.ai&theme=buefy" />
-</a>
+</a> -->
 
 <br />
 <br />
