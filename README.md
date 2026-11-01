@@ -39,6 +39,5 @@ I'm a passionate developer and Ai from India 🇮🇳, specializing in machine l
 
 <a href="https://www.linkedin.com/in/surajsanap01">
 
-  <img align="right" alt="Suraj Sanap | LinkedIn" width="20px" src="https://bit.ly/48JipJi" />
 </a> 
 
